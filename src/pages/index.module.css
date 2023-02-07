@@ -1,0 +1,11 @@
+.container {
+  background-color: #121212;
+  height: 100vh;
+}
+
+.websiteOwnerInformation {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
